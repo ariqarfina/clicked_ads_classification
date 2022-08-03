@@ -16,6 +16,8 @@ Visitors who have no potential to click on ads are:
 
 # Modelling
 
+I use Decision tree for this model, because i need to visualize the segmentation
+
 ![Decision Tree ](https://user-images.githubusercontent.com/101324931/182505186-fbbd2e84-348f-496a-9b4b-13dd6172ab31.jpg)
 
 Evaluation for this model:
